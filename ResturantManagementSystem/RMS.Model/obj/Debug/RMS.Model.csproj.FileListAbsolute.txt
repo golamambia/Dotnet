@@ -1,0 +1,5 @@
+E:\vs\ResturantManagementSystem\RMS.Model\bin\Debug\RMS.Model.dll
+E:\vs\ResturantManagementSystem\RMS.Model\bin\Debug\RMS.Model.pdb
+E:\vs\ResturantManagementSystem\RMS.Model\obj\Debug\RMS.Model.dll
+E:\vs\ResturantManagementSystem\RMS.Model\obj\Debug\RMS.Model.pdb
+E:\vs\ResturantManagementSystem\RMS.Model\obj\Debug\RMS.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Process.dll
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Process.pdb
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Data.dll
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Entity.dll
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Model.dll
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Data.pdb
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Entity.pdb
+E:\vs\ResturantManagementSystem\RMS.Process\bin\Debug\RMS.Model.pdb
+E:\vs\ResturantManagementSystem\RMS.Process\obj\Debug\RMS.Process.csprojResolveAssemblyReference.cache
+E:\vs\ResturantManagementSystem\RMS.Process\obj\Debug\RMS.Process.dll
+E:\vs\ResturantManagementSystem\RMS.Process\obj\Debug\RMS.Process.pdb

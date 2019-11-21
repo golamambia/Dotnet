@@ -1,0 +1,16 @@
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.ProcessTest.dll.config
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.ProcessTest.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.ProcessTest.pdb
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Model.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Process.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Entity.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Data.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Model.pdb
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Process.pdb
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Entity.pdb
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\bin\Debug\RMS.Data.pdb
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\obj\Debug\RMS.ProcessTest.csprojResolveAssemblyReference.cache
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\obj\Debug\RMS.ProcessTest.dll
+E:\vs\ResturantManagementSystem\RMS.ProcessTest\obj\Debug\RMS.ProcessTest.pdb

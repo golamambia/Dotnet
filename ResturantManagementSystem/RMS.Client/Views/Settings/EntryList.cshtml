@@ -1,0 +1,89 @@
+﻿@model IEnumerable<RMS.Model.RegistrationModel>
+    @{ 
+        ViewBag.Settings = "active";
+        ViewBag.EntryList = "active";
+    }
+<section class="content-header">
+    <h1 style="text-align: center;">
+        Entry List
+
+    </h1>
+    @*<ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="#">Forms</a></li>
+            <li class="active">General Elements</li>
+        </ol>*@
+</section>
+<section class="content">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="box">
+                <div class="box-header">
+                    <h3 class="box-title">Hover Data Table</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <p>
+                       <a href="Register">Create Now</a>
+                    </p>
+                    
+
+                    @if (!string.IsNullOrWhiteSpace(ViewBag.ResponseMessage))
+                    {
+                        <label class="text-success">@ViewBag.ResponseMessage</label>
+                    }
+
+                    <table id="example2" class="table table-bordered table-hover">
+                        <tr>
+                            
+
+
+
+                            <th>
+                                @Html.DisplayNameFor(model => model.Name)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Email)
+                            </th>
+                            <th>
+                                Status
+                            </th>
+                            <th>Action</th>
+                        </tr>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                               
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Email)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.IsActive)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Edit", "Reg_edit", new { id = item.Id }) |
+                                    @Html.ActionLink("Details", "RegEditView", new { id = item.Id }) |
+                                    @Html.ActionLink("Delete", "Reg_del", new { id = item.Id })
+                                </td>
+                            </tr>
+                        }
+
+                    </table>
+                </div>
+                <!-- /.box -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+</section>
+@section scripts{
+    <script type="text/javascript">
+        alert("hello");
+    </script>
+    
+    }
