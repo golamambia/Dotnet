@@ -1,0 +1,5 @@
+E:\vs\ResturantManagementSystem\Entity\bin\Debug\RMS.Entity.dll
+E:\vs\ResturantManagementSystem\Entity\bin\Debug\RMS.Entity.pdb
+E:\vs\ResturantManagementSystem\Entity\obj\Debug\RMS.Entity.dll
+E:\vs\ResturantManagementSystem\Entity\obj\Debug\RMS.Entity.pdb
+E:\vs\ResturantManagementSystem\Entity\obj\Debug\RMS.Entity.csprojResolveAssemblyReference.cache

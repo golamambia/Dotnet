@@ -1,0 +1,7 @@
+E:\vs\ResturantManagementSystem\Data\bin\Debug\RMS.Data.dll
+E:\vs\ResturantManagementSystem\Data\bin\Debug\RMS.Data.pdb
+E:\vs\ResturantManagementSystem\Data\bin\Debug\RMS.Entity.dll
+E:\vs\ResturantManagementSystem\Data\bin\Debug\RMS.Entity.pdb
+E:\vs\ResturantManagementSystem\Data\obj\Debug\RMS.Data.csprojResolveAssemblyReference.cache
+E:\vs\ResturantManagementSystem\Data\obj\Debug\RMS.Data.dll
+E:\vs\ResturantManagementSystem\Data\obj\Debug\RMS.Data.pdb

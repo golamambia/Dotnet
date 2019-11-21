@@ -1,0 +1,6 @@
+E:\vs\ResturantManagementSystem\Data\bin\Debug\Data.dll
+E:\vs\ResturantManagementSystem\Data\bin\Debug\Data.pdb
+E:\vs\ResturantManagementSystem\Data\bin\Debug\Data.dll.CodeAnalysisLog.xml
+E:\vs\ResturantManagementSystem\Data\bin\Debug\Data.dll.lastcodeanalysissucceeded
+E:\vs\ResturantManagementSystem\Data\obj\Debug\Data.dll
+E:\vs\ResturantManagementSystem\Data\obj\Debug\Data.pdb
